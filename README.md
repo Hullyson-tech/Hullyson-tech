@@ -1,18 +1,15 @@
-# Olá, eu sou o Hullyson 👋
+👋 Olá, sou Hullyson
 
-💻 **Apaixonado por tecnologia**  
-📍 **Brasil**  
-🚀 Sempre aprendendo e compartilhando conhecimento  
-🛠️ Atualmente trabalho com **suporte** e decidi migrar para **desenvolvimento**  
+🎓 Estudante e entusiasta de tecnologia, começando minha jornada como desenvolvedor.
+📚 Atualmente aprendendo lógica de programação, automações e pequenos scripts em Python.
+🚀 Estou buscando evoluir e compartilhar aprendizados.
 
----
+🚀 Tecnologias em aprendizado:
 
-### ⏳ Esta semana gastei meu tempo em:
-<!--START_SECTION:waka-->
-```txt
-Ainda sem dados automáticos — em breve será atualizado com o WakaTime ⏳
+[Python] 📘 Cursando Análise e Desenvolvimento de Sistemas
 
+📫 Como me encontrar:
 
-
-🌐 Conecte-se comigo
-🔗 LinkedIn: https://www.linkedin.com/in/hullyson-soares-a47903232
+💼 LinkedIn https://www.linkedin.com/in/hullyson-soares-a47903232
+🐙 GitHub https://github.com/Hullyson-tech
+📝 Esse README está em construção! Conforme eu for evoluindo, ele também irá evoluir.
