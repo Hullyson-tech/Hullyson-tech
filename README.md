@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Hullyson 👋
 
-<!--
-**Hullyson-tech/Hullyson-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Apaixonado por tecnologia**  
+📍 **Brasil**  
+🚀 Sempre aprendendo e compartilhando conhecimento  
+🛠️ Atualmente trabalho com **suporte** e decidi migrar para **desenvolvimento**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⏳ Esta semana gastei meu tempo em:
+<!--START_SECTION:waka-->
+```txt
+Ainda sem dados automáticos — em breve será atualizado com o WakaTime ⏳
+
+
+
+🌐 Conecte-se comigo
+🔗 LinkedIn: https://www.linkedin.com/in/hullyson-soares-a47903232
