@@ -5,8 +5,7 @@
 🚀 Estou buscando evoluir e compartilhar aprendizados.
 
 🚀 Tecnologias em aprendizado:
-
-[Python] 📘 Cursando Análise e Desenvolvimento de Sistemas
+📘 Cursando Análise e Desenvolvimento de Sistemas
 
 📫 Como me encontrar:
 
