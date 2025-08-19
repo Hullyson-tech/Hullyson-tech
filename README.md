@@ -9,6 +9,6 @@
 
 📫 Como me encontrar:
 
-💼 LinkedIn https://www.linkedin.com/in/hullyson-soares-a47903232
+💼 LinkedIn https://www.linkedin.com/in/hullysonsoares
 🐙 GitHub https://github.com/Hullyson-tech
 📝 Esse README está em construção! Conforme eu for evoluindo, ele também irá evoluir.
